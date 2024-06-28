@@ -18,7 +18,8 @@
 </div>
 
 Apaixonado por tecnologia, inovação, educação e facilitar a vida das pessoas através da programação!
+
 ###### Freelancer em:
 - [99Freelas](https://www.99freelas.com.br/user/Douglas-queiroz-05)<br/>
-- [Workana](https://www.workana.com/freelancer/a3816488967293ca80c9d7a5c342beda)<br/>
+
 ###### Não deixe de dar uma olhada nos repositórios
