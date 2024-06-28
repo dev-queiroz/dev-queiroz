@@ -17,7 +17,7 @@
   <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-Apaixonado por tecnologia, inovação, educação e facilitar a vida das pessoas através da programação!
+Apaixonado por tecnologia, inovação, educação e automação do dia a dia através da programação!
 
 ###### Freelancer em:
 - [99Freelas](https://www.99freelas.com.br/user/Douglas-queiroz-05)<br/>
