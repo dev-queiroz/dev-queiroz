@@ -5,7 +5,7 @@
 <h3 align="center">Useful Infographics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula" height="206" alt="stats graph"  />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="245.5" alt="languages graph"  />
