@@ -5,7 +5,7 @@
 <h3 align="center">Useful Infographics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula" height="206" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula&show_icons=true" height="200" alt="stats graph"  />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="245.5" alt="languages graph"  />
@@ -54,7 +54,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/douglaxx_19/)">
+  <a href="https://criarmeulink.com.br/u/1722606503">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/douglaxx_19">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://criarmeulink.com.br/u/1721585632">
