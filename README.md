@@ -24,7 +24,7 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
 <code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" alt="npm"/></code>
 
 ## ⭐ GitHub Stats
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula&show_icons=true" height="200" alt="stats graph"  />
