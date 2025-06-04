@@ -10,18 +10,19 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="Javascript"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
-<code><img height="32" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" alt="npm"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="Javascript"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
+<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" alt="npm"/></code>
+<br>
 
 ## ⭐ GitHub Stats
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="340px" width="340px" align="right">
@@ -52,3 +53,14 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
 
 ## 🗂️ Meus Repositórios
 Confira meus projetos no GitHub e veja o que estou construindo! Estou sempre adicionando novos repositórios com APIs, landing pages e scripts de automação. [Acesse meus repositórios aqui](https://github.com/dev-queiroz?tab=repositories).
+
+## 📘 Algumas Certificações
+
+<a href="https://www.credly.com/badges/5205bfe2-cfcc-4b23-b866-479e5296973c/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="140" alt="Certificação 1">
+</a>
+
+<a href="https://www.credly.com/badges/4fe4f9db-f222-4f92-9c3f-49930e527234/public_url">
+  <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="140" alt="Certificação 2">
+</a>
+
