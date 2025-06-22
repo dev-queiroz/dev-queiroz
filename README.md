@@ -61,7 +61,7 @@ Confira meus projetos no GitHub e veja o que estou construindo! Estou sempre adi
 </a>
 
 <a href="https://www.credly.com/badges/694b70b0-edf0-4bb3-af3c-9dac9d7a0677/public_url">
-  <img src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" height="140" alt="Amazon Web Services by Amazon">
+  <img src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" height="140" alt="Data Analytics by Google">
 </a>
 
 <a href="https://www.credly.com/badges/5205bfe2-cfcc-4b23-b866-479e5296973c/public_url">
