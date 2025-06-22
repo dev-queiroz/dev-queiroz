@@ -56,12 +56,16 @@ Confira meus projetos no GitHub e veja o que estou construindo! Estou sempre adi
 
 ## 📘 Algumas Certificações
 
-<a href="https://www.credly.com/badges/5205bfe2-cfcc-4b23-b866-479e5296973c/public_url">
-  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="140" alt="Cybersecurity by Google">
-</a>
-
 <a href="https://www.credly.com/badges/4fe4f9db-f222-4f92-9c3f-49930e527234/public_url">
   <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="140" alt="Amazon Web Services by Amazon">
+</a>
+
+<a href="https://www.credly.com/badges/694b70b0-edf0-4bb3-af3c-9dac9d7a0677/public_url">
+  <img src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" height="140" alt="Amazon Web Services by Amazon">
+</a>
+
+<a href="https://www.credly.com/badges/5205bfe2-cfcc-4b23-b866-479e5296973c/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="140" alt="Cybersecurity by Google">
 </a>
 
 <a href="https://www.credly.com/badges/af7a2ac2-5323-4c96-a6e7-0b9b661ebd45/public_url">
