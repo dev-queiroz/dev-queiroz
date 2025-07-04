@@ -28,26 +28,26 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="340px" width="340px" align="right">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula&show_icons=true" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula&show_icons=true" height="245px" width="500px" alt="stats graph"  />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="245.5" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="245px" width="500px" alt="languages graph"  />
 </div>
 
 ## 📬 Contato
 
 <div align="left">
   <a href="https://criarmeulink.com.br/u/1722606503">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="50px" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/douglaxx_19">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50px" alt="instagram logo"  />
   </a>
   <a href="https://criarmeulink.com.br/u/1721585632">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50px" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/douglas-queiroz-854337288/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50px" alt="linkedin logo"  />
   </a>
 </div>
 
