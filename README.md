@@ -28,10 +28,10 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="340px" width="340px" align="right">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula&show_icons=true" height="245px" width="500px" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula&show_icons=true" height="245px" width="470px" alt="stats graph"  />
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="245px" width="500px" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="245px" width="470px" alt="languages graph"  />
 </div>
 
 ## 📬 Contato
