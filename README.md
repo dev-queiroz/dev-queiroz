@@ -10,18 +10,18 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
 
 ## 🚀 Minhas Skills
 
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="Javascript"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
-<code><img height="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" alt="npm"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="Javascript"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" alt="npm"/></code>
 <br>
 
 ## ⭐ GitHub Stats
