@@ -1,14 +1,19 @@
-# 🧑‍💻 Olá, meu nome é Douglas Queiroz!
+# 🧑‍💻 Douglas Queiroz - Desenvolvedor Backend
 
-## Apresentação
-Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizado. Tenho 16 anos, estou no 3º ano do ensino médio com técnico integrado em Informática, e meu foco é desenvolver soluções práticas e eficientes para projetos reais. Minha stack principal inclui **TypeScript** e **Express** para backend, **NextJS** para frontend, **PHP** para desenvolvimento WordPress, e **Python** para automações e análise de dados. Meu objetivo é atuar como freelancer, criando APIs, landing pages e scripts de automação, enquanto construo um portfólio sólido.
+## 🚀 Quem Sou Eu?
 
-## Sobre Mim
-🔭 Atualmente, estou trabalhando em projetos pessoais em TypeScript com Node.js e Express, integrada ao banco de dados Supabase (PostgreSQL), e explorando a criação de Landing Pages. Também estou aprendendo frontend com JavaScript puro e NextJS, além de automações com Python.
+Olá! Eu sou **Douglas Queiroz**, um desenvolvedor apaixonado, de 16 anos, com uma missão: transformar ideias em soluções tecnológicas **escaláveis** e **eficientes**. Construo projetos reais como freelancer, focando em **backend** com **TypeScript** (Node.js/Express), **bots** e **automações** em **Python**. Meu objetivo? Criar **APIs robustas** e **automações inteligentes** que resolvem problemas reais para clientes no mercado global.
 
-💬 Estou sempre aberto a aprender e colaborar! Se quiser trocar ideias, tirar dúvidas ou discutir projetos, sinta-se à vontade para entrar em contato comigo pelo WhatsApp, Instagram, Gmail ou LinkedIn.
+Com uma base sólida em **clean code**, **arquiteturas centralizadas**, **microsserviços**, **versionamento com Git** e integração com bancos de dados relacionais e não-relacionais, eu entrego código de qualidade que segue as boas práticas da indústria. Estou sempre aprendendo, colaborando e buscando desafios que me permitam crescer e entregar ainda mais valor.
 
-## 🚀 Minhas Skills
+## 💻 O Que Posso Fazer por Você?
+
+- **APIs Poderosas**: Desenvolvimento de APIs RESTful com **TypeScript**, **Node.js** e **Express**, integradas a bancos de dados como **PostgreSQL** (Supabase) para aplicações seguras e escaláveis.
+- **Landing Pages de Impacto**: Criação de páginas modernas com **Next.js** e **TailwindCSS**, otimizadas para SEO e conversão, perfeitas para negócios que querem se destacar.
+- **Automações Inteligentes**: Scripts em **Python** para automatizar tarefas, processar dados ou integrar sistemas, economizando tempo e recursos.
+- **Documentação Profissional**: Criação de **documentações de sistemas** e guias claros para garantir que seu projeto seja fácil de entender e manter.
+
+## 🌟 Minhas Habilidades
 
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="Javascript"/></code>
@@ -24,7 +29,15 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" alt="npm"/></code>
 <br>
 
-## ⭐ GitHub Stats
+## 🏆 Por Que Me Contratar?
+
+- **Qualidade Profissional**: Entrego código limpo, testado e documentado, pronto para escalar e atender às demandas do mercado.
+- **Foco no Cliente**: Trabalho para entender suas necessidades e entregar soluções sob medida que geram resultados reais.
+- **Agilidade e Compromisso**: Respeito prazos e mantenho comunicação clara, usando ferramentas como **GitHub** para gerenciar projetos.
+- **Preço Competitivo, Valor Incomparável**: Como freelancer em ascensão, ofereço serviços de alta qualidade por um investimento acessível, com resultados que rivalizam com desenvolvedores plenos e seniores.
+- **Portfólio em Crescimento**: Meus projetos no GitHub mostram minha evolução e dedicação. [Confira aqui!](https://github.com/dev-queiroz?tab=repositories)
+
+## 📊 Minhas Estatísticas no GitHub
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="340px" width="340px" align="right">
 
 <div align="left">
@@ -34,7 +47,9 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="245px" width="470px" alt="languages graph"  />
 </div>
 
-## 📬 Contato
+## 📬 Entre em Contato!
+
+Quer transformar sua ideia em realidade? Vamos conversar! Estou disponível para projetos freelancer, colaborações ou apenas para trocar ideias sobre tecnologia.
 
 <div align="left">
   <a href="https://criarmeulink.com.br/u/1722606503">
@@ -51,23 +66,17 @@ Sou um desenvolvedor backend apaixonado por tecnologia e em constante aprendizad
   </a>
 </div>
 
-## 🗂️ Meus Repositórios
-Confira meus projetos no GitHub e veja o que estou construindo! Estou sempre adicionando novos repositórios com APIs, landing pages e scripts de automação. [Acesse meus repositórios aqui](https://github.com/dev-queiroz?tab=repositories).
-
-## 📘 Algumas Certificações
+## 🏅 Certificações que Comprovam Minha Expertise
 
 <a href="https://www.credly.com/badges/4fe4f9db-f222-4f92-9c3f-49930e527234/public_url">
   <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="140" width="146" alt="Amazon Web Services by Amazon">
 </a>
-
 <a href="https://www.credly.com/badges/694b70b0-edf0-4bb3-af3c-9dac9d7a0677/public_url">
   <img src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" height="140" width="146" alt="Data Analytics by Google">
 </a>
-
 <a href="https://www.credly.com/badges/af7a2ac2-5323-4c96-a6e7-0b9b661ebd45/public_url">
   <img src="https://images.credly.com/size/340x340/images/a34119f2-402f-4443-8555-ccfe2520f1df/GCC_badge_PGM_1000x1000.png" height="140" width="146" alt="Project Management by Google">
 </a>
-
 <a href="https://www.credly.com/badges/5205bfe2-cfcc-4b23-b866-479e5296973c/public_url">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="146" width="160" alt="Cybersecurity by Google">
 </a>
