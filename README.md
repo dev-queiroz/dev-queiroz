@@ -16,21 +16,21 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 
 ## 🌟 Skills
 
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg" alt="NestJS"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg" alt="TailwindCSS"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React Native.svg" alt="React Native"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
-<code><img height="50px" width="50px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg" alt="NestJS"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg" alt="TailwindCSS"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React Native.svg" alt="React Native"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
+<code><img height="40px" width="40px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n"/></code>
 <br>
 
 ## 🏆 Why Hire Me?
