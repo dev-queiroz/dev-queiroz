@@ -17,7 +17,6 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 ## 🌟 Skills
 
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="Javascript"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg" alt="NestJS"/></code>
@@ -31,7 +30,7 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg" alt="npm"/></code>
+<code><img height="50px" width="50px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n"/></code>
 <br>
 
 ## 🏆 Why Hire Me?
