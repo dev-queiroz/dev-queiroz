@@ -23,7 +23,7 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg" alt="NestJS"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg" alt="TailwindCSS"/></code>
-<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ReactNative.svg" alt="React Native"/></code>
+<code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React Native.svg" alt="React Native"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
 <code><img height="50px" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
