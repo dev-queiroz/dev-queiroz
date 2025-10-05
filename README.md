@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Douglas Queiroz**, a passionate 16-year-old developer with a mission: turning ideas into **scalable** and **efficient** tech solutions. I build real-world projects as a freelancer, working **end-to-end** from backend to frontend, with expertise in **TypeScript**, **NestJS**, **React**, **TailwindCSS**, **React Native**, and automation with **N8N**. My focus? Deliver **robust APIs**, **modern interfaces**, and **intelligent automations** that solve real problems for clients worldwide.
+Hi! I'm **Douglas Queiroz**, a passionate 16-year-old developer with a mission: turning ideas into **scalable** and **efficient** tech solutions. I build real-world projects as a freelancer, working **end-to-end** from backend to frontend, with expertise in **TypeScript**, **NestJS**, **React**, **TailwindCSS**. My focus? Deliver **robust APIs** and **modern interfaces** that solve real problems for clients worldwide.
 
 With a strong foundation in **clean code**, **scalable architectures**, **microservices**, **Git-based version control**, and integration with both SQL and NoSQL databases, I deliver high-quality code that follows industry best practices. Always learning, collaborating, and seeking challenges that help me grow and bring even more value to every project.
 
@@ -10,8 +10,6 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 
 - **Powerful APIs**: RESTful API development with **TypeScript**, and **NestJS**, integrated with databases like **PostgreSQL** for secure and scalable applications.
 - **Impactful Web Applications**: Modern web apps with **React** and **TailwindCSS**, optimized for performance, SEO, and user engagement.
-- **Mobile Apps**: Cross-platform mobile development with **React Native** for Android and iOS.
-- **Intelligent Automation**: N8N and Python scripts for task automation, data processing, and third-party integrations.
 - **Professional Documentation**: Clear and maintainable technical documentation and system guides.
 
 ## 🌟 Skills
@@ -30,7 +28,6 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
-<code><img height="40px" width="40px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" alt="n8n"/></code>
 <br>
 
 ## 🏆 Why Hire Me?
@@ -73,7 +70,7 @@ Want to bring your idea to life? Let's talk! I'm available for freelance project
 ## 🏅 Certifications
 
 <a href="https://www.credly.com/badges/4fe4f9db-f222-4f92-9c3f-49930e527234/public_url">
-  <img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" height="140" width="146" alt="Amazon Web Services by Amazon">
+  <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" height="140" width="146" alt="Amazon Web Services by Amazon">
 </a>
 <a href="https://www.credly.com/badges/694b70b0-edf0-4bb3-af3c-9dac9d7a0677/public_url">
   <img src="https://images.credly.com/size/340x340/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" height="140" width="146" alt="Data Analytics by Google">
