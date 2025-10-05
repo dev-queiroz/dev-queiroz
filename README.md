@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm **Douglas Queiroz**, a passionate 16-year-old developer with a mission: turning ideas into **scalable** and **efficient** tech solutions. I build real-world projects as a freelancer, working **end-to-end** from backend to frontend, with expertise in **TypeScript**, **NestJS**, **React**, **TailwindCSS**. My focus? Deliver **robust APIs** and **modern interfaces** that solve real problems for clients worldwide.
+Hi! I'm **Douglas Queiroz**, a passionate 17-year-old developer with a mission: turning ideas into **scalable** and **efficient** tech solutions. I build real-world projects as a freelancer, working **end-to-end** from backend to frontend, with expertise in **TypeScript**, **NestJS**, **React**, **TailwindCSS**. My focus? Deliver **robust APIs** and **modern interfaces** that solve real problems for clients worldwide.
 
 With a strong foundation in **clean code**, **scalable architectures**, **microservices**, **Git-based version control**, and integration with both SQL and NoSQL databases, I deliver high-quality code that follows industry best practices. Always learning, collaborating, and seeking challenges that help me grow and bring even more value to every project.
 
