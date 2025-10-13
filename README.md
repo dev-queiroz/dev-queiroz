@@ -1,16 +1,16 @@
-# 🧑‍💻 Douglas Queiroz - Full-Stack Developer
+# 🧑‍💻 Douglas Queiroz - Backend Developer
 
 ## 🚀 About Me
 
-Hi! I'm **Douglas Queiroz**, a passionate 17-year-old developer with a mission: turning ideas into **scalable** and **efficient** tech solutions. I build real-world projects as a freelancer, working **end-to-end** from backend to frontend, with expertise in **TypeScript**, **NestJS**, **React**, **TailwindCSS**. My focus? Deliver **robust APIs** and **modern interfaces** that solve real problems for clients worldwide.
+Hi! I'm **Douglas Queiroz**, a passionate 17-year-old backend developer dedicated to building **scalable**, **efficient**, and **secure** tech solutions. As a freelancer, I specialize in creating **robust APIs** and backend systems that power real-world applications, using technologies like **TypeScript**, **NestJS**, **Node.js**, and **PostgreSQL**. My mission? Deliver high-quality, maintainable code that solves complex problems for clients worldwide.
 
-With a strong foundation in **clean code**, **scalable architectures**, **microservices**, **Git-based version control**, and integration with both SQL and NoSQL databases, I deliver high-quality code that follows industry best practices. Always learning, collaborating, and seeking challenges that help me grow and bring even more value to every project.
+With a strong foundation in **clean code**, **scalable architectures**, **microservices**, and **Git-based version control**, I focus on crafting reliable backend systems integrated with SQL and NoSQL databases. I'm always learning, collaborating, and tackling challenges to grow as a developer and bring maximum value to every project.
 
 ## 💻 What I Can Do for You
 
-- **Powerful APIs**: RESTful API development with **TypeScript**, and **NestJS**, integrated with databases like **PostgreSQL** for secure and scalable applications.
-- **Impactful Web Applications**: Modern web apps with **React** and **TailwindCSS**, optimized for performance, SEO, and user engagement.
-- **Professional Documentation**: Clear and maintainable technical documentation and system guides.
+- **Powerful APIs**: Design and develop RESTful APIs with **TypeScript** and **NestJS**, ensuring performance, security, and scalability with databases like **PostgreSQL**.
+- **Backend Systems**: Build and maintain server-side logic, database integrations, and microservices for seamless application functionality.
+- **Professional Documentation**: Provide clear, detailed technical documentation and system guides for easy maintenance and scalability.
 
 ## 🌟 Skills
 
@@ -18,9 +18,6 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg" alt="NestJS"/></code>
-<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React"/></code>
-<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg" alt="TailwindCSS"/></code>
-<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React Native.svg" alt="React Native"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
@@ -32,11 +29,11 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 
 ## 🏆 Why Hire Me?
 
-- **Professional Quality**: Clean, tested, and documented code ready to scale.
-- **Client-Centric**: Tailored solutions that deliver measurable results.
-- **Agility & Commitment**: Respect for deadlines with clear communication and project tracking on **GitHub**.
-- **Competitive Pricing, Unmatched Value**: High-quality services at accessible rates.
-- **Growing Portfolio**: Check my projects [here!](https://github.com/dev-queiroz?tab=repositories)
+- **Professional Quality**: Clean, tested, and well-documented code designed for scalability and maintainability.
+- **Client-Centric**: Tailored backend solutions that deliver measurable results and align with business needs.
+- **Agility & Commitment**: Respect for deadlines with transparent communication and project tracking via **GitHub**.
+- **Competitive Pricing, Unmatched Value**: High-quality backend services at accessible rates.
+- **Growing Portfolio**: Explore my projects [here!](https://github.com/dev-queiroz?tab=repositories)
 
 ## 📊 GitHub Stats
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="340px" width="340px" align="right">
@@ -50,7 +47,7 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 
 ## 📢 Contact Me
 
-Want to bring your idea to life? Let's talk! I'm available for freelance projects, collaborations, or just tech discussions.
+Ready to build a robust backend for your project? Let's connect! I'm available for freelance work, collaborations, or tech discussions.
 
 <div align="left">
   <a href="https://criarmeulink.com.br/u/1722606503">
@@ -81,4 +78,3 @@ Want to bring your idea to life? Let's talk! I'm available for freelance project
 <a href="https://www.credly.com/badges/5205bfe2-cfcc-4b23-b866-479e5296973c/public_url">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="146" width="160" alt="Cybersecurity by Google">
 </a>
-
