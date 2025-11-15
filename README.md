@@ -78,3 +78,6 @@ Ready to build a robust backend for your project? Let's connect! I'm available f
 <a href="https://www.credly.com/badges/5205bfe2-cfcc-4b23-b866-479e5296973c/public_url">
   <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="146" width="160" alt="Cybersecurity by Google">
 </a>
+<a href="https://www.credly.com/badges/cf7526ed-a0ad-4395-bf1e-6bab8ea707ef/public_url">
+  <img src="https://images.credly.com/size/340x340/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" height="130" width="136" alt="Project Management by Google">
+</a>
