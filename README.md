@@ -35,16 +35,6 @@ With a strong foundation in **clean code**, **scalable architectures**, **micros
 - **Competitive Pricing, Unmatched Value**: High-quality backend services at accessible rates.
 - **Growing Portfolio**: Explore my projects [here!](https://github.com/dev-queiroz?tab=repositories)
 
-## 📊 GitHub Stats
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="340px" width="340px" align="right">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-queiroz&locale=en&theme=dracula&show_icons=true" height="245px" width="470px" alt="stats graph"  />
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-queiroz&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false" height="245px" width="470px" alt="languages graph"  />
-</div>
-
 ## 📢 Contact Me
 
 Ready to build a robust backend for your project? Let's connect! I'm available for freelance work, collaborations, or tech discussions.
