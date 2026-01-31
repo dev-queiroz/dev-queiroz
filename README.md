@@ -1,56 +1,53 @@
-# 🧑‍💻 Douglas Queiroz - Backend Developer
-
+# 🧑‍💻 Douglas Queiroz - Fullstack Developer
 ## 🚀 About Me
+Hi! I'm **Douglas Queiroz**, a 17-year-old passionate **fullstack developer** building **scalable**, **modern**, and **user-focused** web applications from end to end. As a freelancer, I create complete solutions: robust **backends** with **NestJS/Node.js** + **PostgreSQL**, and **interactive frontends** with **React/Next.js** + TypeScript — always prioritizing clean code, performance, security, and seamless user experiences.
 
-Hi! I'm **Douglas Queiroz**, a passionate 17-year-old backend developer dedicated to building **scalable**, **efficient**, and **secure** tech solutions. As a freelancer, I specialize in creating **robust APIs** and backend systems that power real-world applications, using technologies like **TypeScript**, **NestJS**, **Node.js**, and **PostgreSQL**. My mission? Deliver high-quality, maintainable code that solves complex problems for clients worldwide.
-
-With a strong foundation in **clean code**, **scalable architectures**, **microservices**, and **Git-based version control**, I focus on crafting reliable backend systems integrated with SQL and NoSQL databases. I'm always learning, collaborating, and tackling challenges to grow as a developer and bring maximum value to every project.
+My mission? Deliver high-impact fullstack products that solve real problems, scale effortlessly, and bring measurable value to clients and communities worldwide. I'm obsessed with learning, collaborating, and turning ideas into production-ready apps.
 
 ## 💻 What I Can Do for You
-
-- **Powerful APIs**: Design and develop RESTful APIs with **TypeScript** and **NestJS**, ensuring performance, security, and scalability with databases like **PostgreSQL**.
-- **Backend Systems**: Build and maintain server-side logic, database integrations, and microservices for seamless application functionality.
-- **Professional Documentation**: Provide clear, detailed technical documentation and system guides for easy maintenance and scalability.
+- **Fullstack Web Apps**: End-to-end development — React/Next.js (SSR, app router, hooks, state management) for responsive UIs + NestJS/Node.js for secure, performant APIs and business logic.
+- **Powerful APIs & Backends**: RESTful/GraphQL APIs with TypeScript/NestJS, authentication (JWT/OAuth), microservices, SQL/NoSQL integration (PostgreSQL, Supabase), and Docker for consistent environments.
+- **Frontend Excellence**: Modern interfaces with React/Next.js, TypeScript, Tailwind/CSS-in-JS, responsive design, and integrations (dashboards, auth flows, real-time features).
+- **DevOps & Deployment**: Docker containers, AWS basics, GitHub workflows, CI/CD, and clean documentation for easy handoff and scaling.
+- **Professional Delivery**: Tested code, detailed docs, transparent communication via GitHub, and respect for deadlines.
 
 ## 🌟 Skills
-
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="Typescript"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React"/></code> <!-- Adicionei React -->
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg" alt="NextJS"/></code> <!-- Adicionei Next.js se tiver o ícone; senão troque por outro -->
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="Nodejs"/></code>
-<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg" alt="NestJS"/></code>
+<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg" alt="Express"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python"/></code>
-<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="MySQL"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg" alt="Docker"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg" alt="AWS"/></code>
 <code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="Git"/></code>
-<code><img height="40px" width="40px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Insomnia.svg" alt="Insomnia"/></code>
 <br>
 
 ## 🏆 Why Hire Me?
-
-- **Professional Quality**: Clean, tested, and well-documented code designed for scalability and maintainability.
-- **Client-Centric**: Tailored backend solutions that deliver measurable results and align with business needs.
-- **Agility & Commitment**: Respect for deadlines with transparent communication and project tracking via **GitHub**.
-- **Competitive Pricing, Unmatched Value**: High-quality backend services at accessible rates.
-- **Growing Portfolio**: Explore my projects [here!](https://github.com/dev-queiroz?tab=repositories)
+- **True Fullstack Vision**: I handle both frontend (React/Next.js UIs) and backend (NestJS APIs + DB) — no handoffs needed, faster iterations.
+- **Real Projects & Portfolio**: Check my GitHub for fullstack examples — petshop (frontend + backend), sistema-hospitalar (frontend + Supabase API), pascom-mineirolandia-frontend, and more. [Explore repositories here!](https://github.com/dev-queiroz?tab=repositories)
+- **Clean & Scalable Code**: Tested, documented, and built for growth — with focus on maintainability and performance.
+- **Client-First Mindset**: Tailored solutions, clear communication, and results that drive business impact.
+- **Competitive Pricing + High Value**: Quality fullstack work at accessible rates for startups, freelancers, and growing projects.
+- **Certifications**: AWS, Google Data Analytics, Project Management, Cybersecurity — proving discipline and broad knowledge.
 
 ## 📢 Contact Me
-
-Ready to build a robust backend for your project? Let's connect! I'm available for freelance work, collaborations, or tech discussions.
+Ready to build a complete, production-ready web app? Let's chat — freelance, collaborations, or just geek out about code!
 
 <div align="left">
   <a href="https://criarmeulink.com.br/u/1722606503">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="50px" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="50px" alt="whatsapp logo" />
   </a>
   <a href="https://www.instagram.com/douglaxx_19">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50px" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50px" alt="instagram logo" />
   </a>
   <a href="https://criarmeulink.com.br/u/1721585632">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50px" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50px" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=douglas-queiroz-saas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50px" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/douglas-queiroz-saas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50px" alt="linkedin logo" />
   </a>
 </div>
 
