@@ -78,10 +78,4 @@ Currently deepening my expertise in **Java and Golang** while maintaining strong
 
 ---
 
-### 📊 GitHub Stats
-
-![Douglas Queiroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-queiroz&show_icons=true&theme=tokyonight)
-
----
-
 *“I build systems that are observable, resilient, and ready for production — with Java, Golang, and strong TypeScript foundations.”*
