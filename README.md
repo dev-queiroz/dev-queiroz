@@ -2,66 +2,55 @@
 
 ### 🚀 Building scalable, observable and production-grade backend systems
 
-Hi! I'm **Douglas Queiroz**, a Computer Science student at **UFC Quixadá** with a strong passion for backend development.
+Hi! I'm **Douglas Queiroz**, a Computer Science student at **UFC Quixadá** with a strong focus on backend development.
 
-I specialize in **Java (Spring Boot)** and **Golang**, focusing on distributed systems, event-driven architectures, microservices, resilience, and observability. I also have solid experience with **TypeScript** (NestJS/Node.js) from previous fullstack projects, which gives me a broad understanding of end-to-end systems.
+I specialize in **TypeScript (Node.js/NestJS)**, building scalable and production-ready backend systems. I also have solid experience with **Java (Spring Boot)**, expanding my expertise toward enterprise-grade architectures.
 
-My goal is to create reliable, high-performance backend solutions that are ready for real-world production environments.
+My work focuses on **distributed systems, event-driven architecture, resilience, and observability**, always aiming to deliver systems that are reliable, measurable, and production-ready.
 
 ---
 
 ### 💼 What I Bring to the Table
 
-- **Backend Development**: Java (Spring Boot), Golang (Gin/Echo), and TypeScript (NestJS)
-- **Distributed Systems**: Microservices, event-driven architecture (Kafka, Redis Streams), Saga patterns
-- **Observability & Resilience**: OpenTelemetry, Prometheus, Grafana, Jaeger, circuit breakers, rate limiting, idempotency
-- **Databases & Caching**: PostgreSQL (multi-tenancy), Redis
-- **Infrastructure**: Docker, docker-compose, CI/CD with GitHub Actions, cloud-ready deployments
-- **Testing**: Unit, integration (Testcontainers), contract, and chaos testing
-
-Currently deepening my expertise in **Java and Golang** while maintaining strong TypeScript foundations.
+* **Backend Development**: TypeScript (Node.js, NestJS), Java (Spring Boot)
+* **Distributed Systems**: Microservices, event-driven architecture (Kafka, Redis Streams), Saga patterns
+* **Observability & Resilience**: OpenTelemetry, Prometheus, Grafana, Jaeger, circuit breakers, rate limiting, idempotency
+* **Databases & Caching**: PostgreSQL (multi-tenancy), Redis
+* **Infrastructure**: Docker, docker-compose, CI/CD with GitHub Actions
+* **Testing**: Unit, integration, and contract testing
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Languages**  
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
 
 **Frameworks & Tools**  
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS"/></code>
 
-**Others**: Gin, Echo, Kafka, OpenTelemetry, Prometheus, Grafana, Jaeger, Resilience4j, Bucket4j, GitHub Actions, Testcontainers
-
+**Others**: Kafka, OpenTelemetry, Prometheus, Grafana, Jaeger, GitHub Actions
 ---
 
 ### 🔥 Featured Backend Projects
 
-- **[multi-tenant-fintech-payment-hub-java](https://github.com/dev-queiroz/multi-tenant-fintech-payment-hub-java)**  
-  Production-grade multi-tenant payment gateway with schema-per-tenant isolation, Kafka events, intelligent anti-fraud scoring, and full observability.
+* **[multi-tenant-fintech-payment-hub-java](https://github.com/dev-queiroz/multi-tenant-fintech-payment-hub-java)**
+  Multi-tenant payment gateway with schema-per-tenant isolation, Kafka-based communication, anti-fraud scoring, and observability.
 
-- **[distributed-workflow-engine-go](https://github.com/dev-queiroz/distributed-workflow-engine-go)**  
-  Temporal-inspired distributed workflow engine with DAG tasks, automatic retries, decoupled workers, and real integrations.
-
-- **[distributed-url-shortener-go](https://github.com/dev-queiroz/distributed-url-shortener-go)**  
-  High-performance distributed URL shortener with consistent hashing, anti-bot protection, real-time analytics, and observability.
-
-*(All new projects are built with deep focus on production concerns. Older fullstack repositories are available in my profile for reference.)*
+* **[nestjs-saas-backend](#)** *(in progress)*
+  Production-oriented SaaS backend with authentication, multi-tenancy, queues, caching, and observability.
 
 ---
 
 ### 🎯 Currently Looking For
 
-- **Remote Backend Engineering Internships** (Java or Golang preferred)
-- Opportunities to work on scalable distributed systems and production-grade backends
-- Collaborations on challenging backend projects
+* **Remote Backend Engineering Internships** (Node.js/NestJS or Java preferred)
+* Opportunities to work on scalable backend systems in real-world environments
 
 ---
 
@@ -78,4 +67,4 @@ Currently deepening my expertise in **Java and Golang** while maintaining strong
 
 ---
 
-*“I build systems that are observable, resilient, and ready for production — with Java, Golang, and strong TypeScript foundations.”*
+*“I build scalable backend systems focused on reliability, observability, and real-world production challenges.”*
