@@ -39,11 +39,11 @@ My work focuses on **distributed systems, event-driven architecture, resilience,
 
 ### 🔥 Featured Backend Projects
 
-* **[multi-tenant-fintech-payment-hub-java](https://github.com/dev-queiroz/multi-tenant-fintech-payment-hub-java)**
+* **[multi-tenant-fintech-payment-hub-java](in progress)**
   Multi-tenant payment gateway with schema-per-tenant isolation, Kafka-based communication, anti-fraud scoring, and observability.
 
-* **[nestjs-saas-backend](#)** *(in progress)*
-  Production-oriented SaaS backend with authentication, multi-tenancy, queues, caching, and observability.
+* **[trackflow](https://github.com/dev-queiroz/Trackflow)**
+  Complete Product Analytics platform with robust event ingestion, real-time analytics, JWT authentication, and observability. Built with NestJS, TypeScript, Prisma, and PostgreSQL. Production-ready.
 
 ---
 
