@@ -1,70 +1,70 @@
-# 🧑‍💻 Douglas Queiroz — Backend Engineer
+# 🧑‍💻 Douglas Queiroz — Backend Developer
 
-### 🚀 Building scalable, observable and production-grade backend systems
+### 🚀 Construindo APIs escaláveis, seguras e production-ready
 
-Hi! I'm **Douglas Queiroz**, a Computer Science student at **UFC Quixadá** with a strong focus on backend development.
+Olá! Sou **Douglas Queiroz**, estudante de **Ciência da Computação na UFC Quixadá**, com foco principal em **Backend**.
 
-I specialize in **TypeScript (Node.js/NestJS)**, building scalable and production-ready backend systems. I also have solid experience with **Java (Spring Boot)**, expanding my expertise toward enterprise-grade architectures.
-
-My work focuses on **distributed systems, event-driven architecture, resilience, and observability**, always aiming to deliver systems that are reliable, measurable, and production-ready.
+Especializado em **Node.js + TypeScript + NestJS**, desenvolvo APIs robustas, sistemas completos e soluções com atenção em escalabilidade, performance e arquitetura limpa.
 
 ---
 
-### 💼 What I Bring to the Table
+### 💼 Projetos em Destaque
 
-* **Backend Development**: TypeScript (Node.js, NestJS), Java (Spring Boot)
-* **Distributed Systems**: Microservices, event-driven architecture (Kafka, Redis Streams), Saga patterns
-* **Observability & Resilience**: OpenTelemetry, Prometheus, Grafana, Jaeger, circuit breakers, rate limiting, idempotency
-* **Databases & Caching**: PostgreSQL (multi-tenancy), Redis
-* **Infrastructure**: Docker, docker-compose, CI/CD with GitHub Actions
-* **Testing**: Unit, integration, and contract testing
+**🏥 Plataforma de Gestão Hospitalar**  
+Sistema full-stack com sincronização offline, triagem inteligente via IA, gestão de pacientes, permissões de acesso e integração com IA para análise de dados.  
+**Tecnologias:** NestJS | Express | TypeScript | PostgreSQL | Docker | Python (IA)
+
+**🏟️ Sistema de Gestão de Arenas Esportivas**  
+Plataforma para gerenciamento de arenas, agendamento de eventos, controle de acessos e operações esportivas.  
+**Tecnologias:** NestJS | TypeScript | PostgreSQL | Docker | Prisma
+
+**⛪ Sistema PASCOM - Paróquia Nossa Senhora do Perpétuo Socorro**  
+Backend completo desenvolvido sozinho, utilizado por **+50 usuários ativos** em produção.  
+**Tecnologias:** NestJS | TypeScript | PostgreSQL | Prisma | Docker | JWT + RBAC
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack Principal
 
-**Languages**  
+**Backend & APIs**  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
-
-**Frameworks & Tools**  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
+
+**Banco de Dados**  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma"/></code>
 
-**Others**: Kafka, OpenTelemetry, Prometheus, Grafana, Jaeger, GitHub Actions
----
+**DevOps & Cloud**  
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare"/></code>
 
-### 🔥 Featured Backend Projects
-
-* **[multi-tenant-fintech-payment-hub-java](in progress)**
-  Multi-tenant payment gateway with schema-per-tenant isolation, Kafka-based communication, anti-fraud scoring, and observability.
-
-* **[trackflow](https://github.com/dev-queiroz/Trackflow)**
-  Complete Product Analytics platform with robust event ingestion, real-time analytics, JWT authentication, and observability. Built with NestJS, TypeScript, Prisma, and PostgreSQL. Production-ready.
-
----
-
-### 🎯 Currently Looking For
-
-* **Remote Backend Engineering Internships** (Node.js/NestJS or Java preferred)
-* Opportunities to work on scalable backend systems in real-world environments
+**Outros**  
+GraphQL • Jest/Supertest • Redis (Cache) • Python (Automação & IA) • Clean Architecture • OAuth/JWT + RBAC
 
 ---
 
-### 📫 Let's Connect
+### 🎯 O que estou buscando
+
+**Primeira oportunidade remota** como **Backend Developer Júnior / Estagiário / Trainee** (Node.js + TypeScript).
+
+Estou disponível para contribuir em projetos reais, aprender rápido e entregar valor desde o primeiro dia.
+
+---
+
+### 📫 Vamos conversar?
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/douglas-queiroz-saas">
+  <a href="https://www.linkedin.com/in/devqueiroz">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:dev.queiroz05@gmail.com">
+  <a href="mailto:queirozdouglas466@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail"/>
   </a>
 </div>
 
 ---
-
-*“I build scalable backend systems focused on reliability, observability, and real-world production challenges.”*
+*"Apaixonado por construir sistemas backend que realmente funcionam em produção."*
