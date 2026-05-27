@@ -1,37 +1,37 @@
 # 🧑‍💻 Douglas Queiroz — Backend Developer
 
-### 🚀 Construindo APIs escaláveis, seguras e production-ready
+### 🚀 Building scalable, secure and production-ready APIs
 
-Olá! Sou **Douglas Queiroz**, estudante de **Ciência da Computação na UFC Quixadá**, com foco principal em **Backend**.
+Hi! I'm **Douglas Queiroz**, a Computer Science student at **UFC Quixadá**, with a main focus on **Backend**.
 
-Especializado em **Node.js + TypeScript + NestJS**, desenvolvo APIs robustas, sistemas completos e soluções com atenção em escalabilidade, performance e arquitetura limpa.
-
----
-
-### 💼 Projetos em Destaque
-
-**🏥 Plataforma de Gestão Hospitalar**  
-Sistema full-stack com sincronização offline, triagem inteligente via IA, gestão de pacientes, permissões de acesso e integração com IA para análise de dados.  
-**Tecnologias:** NestJS | Express | TypeScript | PostgreSQL | Docker | Python (IA)
-
-**🏟️ Sistema de Gestão de Arenas Esportivas**  
-Plataforma para gerenciamento de arenas, agendamento de eventos, controle de acessos e operações esportivas.  
-**Tecnologias:** NestJS | TypeScript | PostgreSQL | Docker | Prisma
-
-**⛪ Sistema PASCOM - Paróquia Nossa Senhora do Perpétuo Socorro**  
-Backend completo desenvolvido sozinho, utilizado por **+50 usuários ativos** em produção.  
-**Tecnologias:** NestJS | TypeScript | PostgreSQL | Prisma | Docker | JWT + RBAC
+Specialized in **Node.js + TypeScript + NestJS**, I develop robust APIs, complete systems and solutions with attention to scalability, performance and clean architecture.
 
 ---
 
-### 🛠️ Stack Principal
+### 💼 Featured Projects
+
+**🏥 Hospital Management Platform**  
+Full-stack system with offline synchronization, intelligent triage via AI, patient management, access permissions and AI integration for data analysis.  
+**Technologies:** NestJS | Express | TypeScript | PostgreSQL | Docker | Python (AI)
+
+**🏟️ Sports Arenas Management System**  
+Platform for arena management, event scheduling, access control and sports operations.  
+**Technologies:** NestJS | TypeScript | PostgreSQL | Docker | Prisma
+
+**⛪ PASCOM System - Paróquia Nossa Senhora do Perpétuo Socorro**  
+Complete backend developed solo, used by **+50 active users** in production.  
+**Technologies:** NestJS | TypeScript | PostgreSQL | Prisma | Docker | JWT + RBAC
+
+---
+
+### 🛠️ Main Stack
 
 **Backend & APIs**  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
 
-**Banco de Dados**  
+**Databases**  
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma"/></code>
@@ -42,20 +42,20 @@ Backend completo desenvolvido sozinho, utilizado por **+50 usuários ativos** em
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare"/></code>
 
-**Outros**  
-GraphQL • Jest/Supertest • Redis (Cache) • Python (Automação & IA) • Clean Architecture • OAuth/JWT + RBAC
+**Others**  
+GraphQL • Jest/Supertest • Redis (Cache) • Python (Automation & AI) • Clean Architecture • OAuth/JWT + RBAC
 
 ---
 
-### 🎯 O que estou buscando
+### 🎯 What I'm Looking For
 
-**Primeira oportunidade remota** como **Backend Developer Júnior / Estagiário / Trainee** (Node.js + TypeScript).
+**First remote opportunity** as **Junior Backend Developer / Intern / Trainee** (Node.js + TypeScript).
 
-Estou disponível para contribuir em projetos reais, aprender rápido e entregar valor desde o primeiro dia.
+I'm available to contribute to real projects, learn quickly and deliver value from day one.
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Let's Connect?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/devqueiroz">
@@ -67,4 +67,4 @@ Estou disponível para contribuir em projetos reais, aprender rápido e entregar
 </div>
 
 ---
-*"Apaixonado por construir sistemas backend que realmente funcionam em produção."*
+*"Passionate about building backend systems that actually work in production."*
