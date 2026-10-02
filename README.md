@@ -1,112 +1,96 @@
 # Douglas Queiroz
 
-### Backend Developer · Node.js · TypeScript · NestJS · Java
+### Backend Developer · Node.js · TypeScript · NestJS · Java · Spring Boot
 
-I build backend systems, APIs and developer tools with a focus on **architecture, scalability, security and reliability**.
+I build production-oriented backend systems and APIs focused on **architecture, scalability, security and reliability**.
 
-Currently studying **Computer Science at UFC Quixadá** and deepening my expertise in backend engineering, distributed systems and **Java/Spring Boot**.
+Currently studying **Computer Science at UFC Quixadá** and deepening expertise in backend engineering, distributed systems and **Java/Spring Boot**.
 
 ---
 
 ## What I Build
 
-* **Production-oriented REST APIs**
-* **Authentication & authorization** with JWT, OAuth2 and RBAC
-* **PostgreSQL-backed systems**
-* **Scalable backend architectures**
-* **Clean Architecture & modular design**
-* **Caching, rate limiting and background processing**
-* **Dockerized applications and CI/CD**
-* **Full-stack systems when the product requires it**
+* Production-oriented REST APIs
+* Authentication & authorization (JWT, OAuth2, RBAC)
+* PostgreSQL-backed systems with Prisma
+* Scalable and multi-tenant architectures
+* Clean Architecture & modular design
+* Caching, rate limiting, background jobs and observability
+* Dockerized applications with CI/CD
+* Contract-first tools and code generation
 
 ---
 
 ## Featured Projects
 
-### 🚗 AutoRadar
-
-Open-source platform for discovering, comparing and finding where to buy vehicles.
-
-**TypeScript · Next.js · APIs · Data Integration**
-
-→ [View repository](https://github.com/dev-queiroz/autoradar)
-
 ### 📊 Tracked
+Product analytics platform with event ingestion, real-time analytics, JWT + RBAC, rate limiting, Redis caching and observability (Pino + correlation IDs).
 
-Product analytics platform with event ingestion, real-time analytics, authentication, rate limiting and observability.
+**NestJS · TypeScript · Prisma · PostgreSQL · Redis · Docker · CI/CD**
 
-**NestJS · TypeScript · Prisma · PostgreSQL · Docker · Clean Architecture**
-
-→ [View repository](https://github.com/dev-queiroz/tracked)
+→ [Repository](https://github.com/dev-queiroz/tracked)
 
 ### 🏟️ ArenaHub
+Sports arena management and reservation platform (multi-tenant). Secure JWT-based isolation, matchmaking and administrative operations.
 
-Sports arena management and reservation platform with authentication, reservations and administrative operations.
+**NestJS · TypeScript · Prisma · PostgreSQL · Fastify · Docker · JWT**
 
-**NestJS · TypeScript · PostgreSQL · Prisma · Docker · JWT**
-
-→ [Backend](https://github.com/dev-queiroz/arenahub-backend) · [Frontend](https://github.com/dev-queiroz/arenahub-frontend)
+→ [Backend](https://github.com/dev-queiroz/arenahub-backend)
 
 ### 🏥 Hospital Management System
+Healthcare management platform with patients, triage, medical records, prescriptions, LGPD compliance and AI-powered clinical insights (Groq).
 
-Healthcare management platform designed around clinical operations, authentication, permissions and data management.
+**NestJS/Express · TypeScript · PostgreSQL · Supabase · Redis · Docker · Python/IA**
 
-**NestJS · Express · TypeScript · PostgreSQL · Supabase · Docker · Python**
-
-→ [Backend](https://github.com/dev-queiroz/sistema-hospitalar) · [Frontend](https://github.com/dev-queiroz/sistema-hospitalar-frontend)
+→ [Backend](https://github.com/dev-queiroz/sistema-hospitalar)
 
 ### ⚙️ Forge
+Contract-first DSL that generates TypeScript interfaces, Zod schemas, Prisma, OpenAPI and NestJS scaffolding from a single source of truth.
 
-Contract-first DSL that generates TypeScript and JSON Schema from a single source of truth.
+**TypeScript · Langium · Code Generation · Prisma · NestJS**
 
-**JavaScript · DSL · Code Generation · JSON Schema**
-
-→ [View repository](https://github.com/dev-queiroz/forge)
+→ [Repository](https://github.com/dev-queiroz/forge)
 
 ---
 
 ## Tech Stack
 
 ### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 ### Databases & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### Engineering
-
-`REST APIs` · `JWT` · `OAuth2` · `RBAC` · `Prisma` · `Clean Architecture` · `Testing` · `CI/CD` · `Rate Limiting` · `Caching` · `API Design`
+`REST APIs` · `JWT` · `OAuth2` · `RBAC` · `Clean Architecture` · `Testing` · `CI/CD` · `Rate Limiting` · `Caching` · `Observability` · `Multi-tenant`
 
 ---
 
 ## Currently
 
-I'm focused on becoming a stronger **backend engineer**, with particular interest in:
+Focused on becoming a stronger **backend engineer**, with particular interest in:
 
 * Java & Spring Boot
-* Distributed systems
-* System design
-* Performance & scalability
-* Observability
-* Event-driven architectures
-* Cloud infrastructure
+* Distributed systems and event-driven architectures
+* System design, performance and scalability
+* Observability and production reliability
+* Cloud infrastructure (AWS)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://devqueiroz.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devqueiroz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://devqueiroz.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:queirozdouglas466@gmail.com)
 
 ---
 
